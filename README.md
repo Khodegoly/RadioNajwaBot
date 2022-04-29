@@ -54,14 +54,3 @@ Run the robot `node index.js` then using
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request
-
-***
-<h1 align="center">🤝Contact Me!</h1>
-<p align="center">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/556854910805737478" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hesawmgh1098" target="_blank">
-<a href="https://github.com/hesawmgh1098"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-</p>
-
-<img src="https://discord.c99.nl/widget/theme-2/556854910805737478.png" >
