@@ -48,8 +48,8 @@ Run the robot `node index.js` then using
 ***
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/hesawmgh1098/discordjs-radiobot-v13/fork)
-2. Clone your fork: `git clone https://github.com/your-username/discordjs-radiobot-v13.git`
+1. [Fork the repository](https://github.com/MesterFlower/Radio-Discord-Bot/fork)
+2. Clone your fork: `git clone https://github.com/yourusername/Radio-Discord-Bot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
