@@ -38,14 +38,6 @@ Run the robot `node index.js` then using
 }
 ```
 ***
-# Intent
-**Dont Forgot Enable message content intent**
-<img src="https://media.discordapp.net/attachments/923616646319439882/930731010809802803/unknown.png" />
-
-***
-# Run On replit
-
-***
 ## 🤝 Contributing
 
 1. [Fork the repository](https://github.com/MesterFlower/Radio-Discord-Bot/fork)
