@@ -1,4 +1,4 @@
-![logo](https://play-lh.googleusercontent.com/oV1AVbkOV2M7rqOAENeuNAnBL6ftRpECFDiiKU4w19tX_rTHTnwJRrPcJ2yy270taMU)
+![logo](https://www.pgvr.dev/images/discord-thumbnail.png)
 
 # Discord Radio Bot
 
