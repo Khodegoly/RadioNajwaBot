@@ -2,7 +2,6 @@
 
 # Discord Radio Bot
 
-
 ## 🔧 Requirements
 1. Discord Bot Token And Client Id **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v16.0.0 or newer
@@ -15,8 +14,6 @@
 ✓ Set role system
 
 ✓ Works on Replit.com and Heroku.com
-
-<br/>
 
 ***
 
